@@ -6,11 +6,11 @@ Link to paper: *[DOI link to be added]*
 📂 Files
 
 Contains all the R scripts for the project:
-- `reliability_outcomes.R`: Test-retest reliability analysis (ICC, SEM, MDC, CV), repeated measures correlation, and Bland-Altman plots for the timed Brazilian Adductor Performance Test (BAPT).
+- `reliability_outcomes.R`: Test-retest reliability analysis (ICC, SEM, MDC, CV), repeated measures correlation, and Bland-Altman plots.
 - `bapt_cs.R`: Descriptive statistics and linear mixed-effects models comparing male football players with and without a past-season groin injury.
 
 Includes the datasets required to run the analyses:
-- `reliability_bapt.xlsx`: Dataset used for the test-retest reliability analysis across sessions.
-- `Cross_sectional_cleaned_base.xlsx`: Cleaned cross-sectional dataframe used for baseline descriptions and group comparisons.
+- `reliability_bapt.xlsx`: Dataset used for the test-retest reliability analysis.
+- `Cross_sectional_cleaned_base.xlsx`: Dataset used for baseline descriptions and group comparisons.
 
 📧 Please contact marcosquintana99@gmail.com for any issues or questions.
