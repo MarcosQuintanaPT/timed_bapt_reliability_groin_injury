@@ -11,6 +11,6 @@ Contains all the R scripts for the project:
 
 Includes the datasets required to run the analyses:
 - `reliability_bapt.xlsx`: Dataset used for the test-retest reliability analysis.
-- `Basic_ds.xlsx`: Dataset used for baseline descriptions and group comparisons.
+- `basic_ds.xlsx`: Dataset used for baseline descriptions and group comparisons.
 
 📧 Please contact marcosquintana99@gmail.com for any issues or questions.
